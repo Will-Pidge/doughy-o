@@ -1,5 +1,20 @@
 # Doughy-O — memory
 
+## 2026-09-21 (later still) — Auto-deploy confirmed; two follow-ups on the Notion board
+- **Pushing to `main` updates the live site.** Verified end to end: pushed a commit, Cloudflare
+  built it automatically, the new file appeared at doughy.willpidge.com.
+- **Correction:** the "Manually deployed" label was only describing the FIRST deployment (the one
+  uploaded when the project was created), not a broken setting. Git auto-deploy was already working.
+  Diagnosed it wrongly at first because the Deployments page showed an empty "Recent builds" section
+  that simply hadn't loaded. Check the **build history** page, not the deployments summary.
+- Added `wrangler.jsonc` anyway — states the deploy config explicitly (`assets.directory: "./"`,
+  no build step) instead of relying on Cloudflare inferring it. Not the fix, but worth keeping.
+- Build config, for reference: repo `Will-Pidge/doughy-o`, production branch `main`,
+  deploy command `npx wrangler deploy`, no build command.
+- Two follow-ups now live as tasks in **Tasks (Pidge)**, both due Fri 25 Sep 2026:
+  DMARC record for willpidge.com, and the registration transfer off WordPress.
+- Next: Fire tablet — Silk → Add to Home Screen.
+
 ## 2026-09-21 (later) — LIVE at doughy.willpidge.com
 - Deployed via Cloudflare. Note: Cloudflare's current flow creates a **Worker** (static assets),
   not a Pages project — URL is `doughy-o.will-2c2.workers.dev`. Pages is being folded into Workers.
