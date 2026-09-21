@@ -1,0 +1,2007 @@
+{
+ "riddles": [
+  {
+   "id": "r1",
+   "level": 1,
+   "q": "What has keys but can't open a single lock?",
+   "answers": [
+    "piano",
+    "a piano",
+    "keyboard",
+    "pianno",
+    "pieno"
+   ],
+   "clues": [
+    "You play music on it.",
+    "It's big and has black and white bits.",
+    "It starts with P."
+   ]
+  },
+  {
+   "id": "r2",
+   "level": 1,
+   "q": "What has a face and two hands but no arms or legs?",
+   "answers": [
+    "clock",
+    "a clock",
+    "watch",
+    "clok",
+    "cloc"
+   ],
+   "clues": [
+    "It tells you something.",
+    "It goes tick tock.",
+    "Look on the wall."
+   ]
+  },
+  {
+   "id": "r3",
+   "level": 1,
+   "q": "What gets wetter the more it dries?",
+   "answers": [
+    "towel",
+    "a towel",
+    "towl",
+    "towell",
+    "tawel"
+   ],
+   "clues": [
+    "You use it after a bath.",
+    "It's soft and fluffy.",
+    "It starts with T."
+   ]
+  },
+  {
+   "id": "r4",
+   "level": 1,
+   "q": "🐝 + 🍃 = what word?",
+   "answers": [
+    "believe",
+    "beleive",
+    "beleave",
+    "belief",
+    "bee leaf"
+   ],
+   "clues": [
+    "Say the two pictures out loud, fast.",
+    "Bee... leaf...",
+    "It means you think something is true."
+   ]
+  },
+  {
+   "id": "r5",
+   "level": 1,
+   "q": "What has to be broken before you can use it?",
+   "answers": [
+    "egg",
+    "an egg",
+    "eg",
+    "egg shell",
+    "eggs"
+   ],
+   "clues": [
+    "You might have it for breakfast.",
+    "Chickens make them.",
+    "It starts with E."
+   ]
+  },
+  {
+   "id": "r6",
+   "level": 2,
+   "q": "I have a neck but no head, and two arms but no hands. What am I?",
+   "answers": [
+    "shirt",
+    "a shirt",
+    "t-shirt",
+    "t shirt",
+    "tshirt",
+    "top",
+    "jumper"
+   ],
+   "clues": [
+    "You wear me.",
+    "I go on your top half.",
+    "I have sleeves."
+   ]
+  },
+  {
+   "id": "r7",
+   "level": 2,
+   "q": "🌧️ + 🏹 = what word?",
+   "answers": [
+    "rainbow",
+    "rain bow",
+    "rainbo",
+    "rainbowe",
+    "rian bow"
+   ],
+   "clues": [
+    "Rain plus... what is that second picture?",
+    "A bow. Rain... bow.",
+    "It's colourful and appears after rain."
+   ]
+  },
+  {
+   "id": "r8",
+   "level": 2,
+   "q": "What can you catch but never throw?",
+   "answers": [
+    "cold",
+    "a cold",
+    "the cold",
+    "cold!",
+    "a cold!"
+   ],
+   "clues": [
+    "It makes you sneeze.",
+    "You might catch one in winter.",
+    "It starts with C."
+   ]
+  },
+  {
+   "id": "r9",
+   "level": 2,
+   "q": "What has one eye but can't see?",
+   "answers": [
+    "needle",
+    "a needle",
+    "sewing needle",
+    "nedle",
+    "needel"
+   ],
+   "clues": [
+    "It's very thin and sharp.",
+    "You use thread with it.",
+    "It starts with N."
+   ]
+  },
+  {
+   "id": "r10",
+   "level": 2,
+   "q": "The more you take, the more you leave behind. What are they?",
+   "answers": [
+    "footsteps",
+    "footprints",
+    "steps",
+    "foot steps",
+    "foot prints",
+    "footstep"
+   ],
+   "clues": [
+    "Think about walking.",
+    "Look at the sand behind you on a beach.",
+    "They're made by your feet."
+   ]
+  },
+  {
+   "id": "r11",
+   "level": 3,
+   "q": "I'm tall when I'm young and short when I'm old. What am I?",
+   "answers": [
+    "candle",
+    "a candle",
+    "candel",
+    "kandle",
+    "candles"
+   ],
+   "clues": [
+    "I have a flame.",
+    "You blow me out on a birthday cake.",
+    "I'm made of wax."
+   ]
+  },
+  {
+   "id": "r12",
+   "level": 3,
+   "q": "🐱 + 🐟 = what word?",
+   "answers": [
+    "catfish",
+    "cat fish",
+    "catfsh",
+    "cat-fish",
+    "catfis"
+   ],
+   "clues": [
+    "Cat... plus...",
+    "It's an animal that lives in rivers.",
+    "It has whiskers AND fins."
+   ]
+  },
+  {
+   "id": "r13",
+   "level": 3,
+   "q": "What word is spelled wrong in every single dictionary?",
+   "answers": [
+    "wrong",
+    "the word wrong",
+    "wrong!",
+    "rong",
+    "wrng"
+   ],
+   "clues": [
+    "Read the riddle again very carefully.",
+    "It's a trick!",
+    "The answer is in the question."
+   ]
+  },
+  {
+   "id": "r14",
+   "level": 3,
+   "q": "I have cities but no houses, forests but no trees, and water but no fish. What am I?",
+   "answers": [
+    "map",
+    "a map",
+    "mapp",
+    "maps",
+    "atlas"
+   ],
+   "clues": [
+    "You use it to find your way.",
+    "It's usually a flat piece of paper.",
+    "It starts with M."
+   ]
+  },
+  {
+   "id": "r15",
+   "level": 3,
+   "q": "What has many teeth but can't bite?",
+   "answers": [
+    "comb",
+    "a comb",
+    "cob",
+    "coamb",
+    "brush",
+    "hairbrush",
+    "hair brush"
+   ],
+   "clues": [
+    "You use it on your hair.",
+    "It has a row of little spikes.",
+    "It starts with C."
+   ]
+  },
+  {
+   "id": "r16",
+   "level": 4,
+   "q": "What is 7 C's and very wet?",
+   "answers": [
+    "seven seas",
+    "the seven seas",
+    "7 seas",
+    "7 c's",
+    "seven cs",
+    "the 7 seas",
+    "seven c's"
+   ],
+   "clues": [
+    "Say the letter C out loud.",
+    "Seas... as in oceans.",
+    "Pirates sail across all seven of them."
+   ]
+  },
+  {
+   "id": "r17",
+   "level": 4,
+   "q": "What goes up but never comes down?",
+   "answers": [
+    "your age",
+    "age",
+    "my age",
+    "ages",
+    "how old you are"
+   ],
+   "clues": [
+    "It happens on your birthday.",
+    "It's a number about you.",
+    "You get older."
+   ]
+  },
+  {
+   "id": "r18",
+   "level": 4,
+   "q": "🦶 + 🏀 = what sport?",
+   "answers": [
+    "football",
+    "foot ball",
+    "footbal",
+    "soccer",
+    "futbol"
+   ],
+   "clues": [
+    "Foot plus...",
+    "It's a sport.",
+    "You kick it."
+   ]
+  },
+  {
+   "id": "r19",
+   "level": 4,
+   "q": "What can travel all around the world while staying in a corner?",
+   "answers": [
+    "stamp",
+    "a stamp",
+    "postage stamp",
+    "stamps",
+    "stap"
+   ],
+   "clues": [
+    "It's small and sticky.",
+    "You put it on a letter.",
+    "It sits in the corner of an envelope."
+   ]
+  },
+  {
+   "id": "r20",
+   "level": 4,
+   "q": "What runs but never walks, has a mouth but never talks, and has a bed but never sleeps?",
+   "answers": [
+    "river",
+    "a river",
+    "rivver",
+    "rivr",
+    "stream"
+   ],
+   "clues": [
+    "It's full of water.",
+    "Fish live in it.",
+    "It starts with R."
+   ]
+  },
+  {
+   "id": "r21",
+   "level": 5,
+   "q": "What five-letter word becomes shorter when you add two letters to it?",
+   "answers": [
+    "short",
+    "the word short",
+    "short!",
+    "shorter",
+    "shortt"
+   ],
+   "clues": [
+    "Think about the word itself.",
+    "Add 'er' to a word...",
+    "The word is the opposite of long."
+   ]
+  },
+  {
+   "id": "r22",
+   "level": 5,
+   "q": "I am an odd number. Take away one letter and I become even. What number am I?",
+   "answers": [
+    "seven",
+    "7",
+    "sevn",
+    "number seven",
+    "seven!"
+   ],
+   "clues": [
+    "Write the number as a word.",
+    "Take away the S...",
+    "S-even."
+   ]
+  },
+  {
+   "id": "r23",
+   "level": 5,
+   "q": "What has 13 hearts but no other organs?",
+   "answers": [
+    "deck of cards",
+    "pack of cards",
+    "cards",
+    "a deck of cards",
+    "a pack of cards",
+    "playing cards"
+   ],
+   "clues": [
+    "You play games with them.",
+    "Hearts is one of the suits.",
+    "Diamonds, clubs, spades and..."
+   ]
+  },
+  {
+   "id": "r24",
+   "level": 5,
+   "q": "🌞 + 🌻 = what word?",
+   "answers": [
+    "sunflower",
+    "sun flower",
+    "sunflowr",
+    "sunflour",
+    "sun-flower"
+   ],
+   "clues": [
+    "Sun plus...",
+    "It's a tall yellow plant.",
+    "It turns to face the sky."
+   ]
+  },
+  {
+   "id": "r25",
+   "level": 5,
+   "q": "Forwards I am heavy, backwards I am not. What am I?",
+   "answers": [
+    "ton",
+    "a ton",
+    "tonne",
+    "ton!",
+    "not"
+   ],
+   "clues": [
+    "Spell a heavy weight backwards.",
+    "Three letters.",
+    "T-O-N backwards is..."
+   ]
+  },
+  {
+   "id": "r26",
+   "level": 6,
+   "q": "A cowboy rides into town on Friday, stays three days, and leaves on Friday. How?",
+   "answers": [
+    "his horse is called friday",
+    "the horse is called friday",
+    "horse is named friday",
+    "horse called friday",
+    "his horse was called friday",
+    "the horse is friday"
+   ],
+   "clues": [
+    "Friday might not be a day.",
+    "What is the cowboy riding?",
+    "Think about the horse's name."
+   ]
+  },
+  {
+   "id": "r27",
+   "level": 6,
+   "q": "What belongs to you but other people use it far more than you do?",
+   "answers": [
+    "your name",
+    "name",
+    "my name",
+    "a name",
+    "names"
+   ],
+   "clues": [
+    "People say it to get your attention.",
+    "It's a word.",
+    "Your parents chose it."
+   ]
+  },
+  {
+   "id": "r28",
+   "level": 6,
+   "q": "What can fill a whole room but takes up no space?",
+   "answers": [
+    "light",
+    "a light",
+    "lite",
+    "sunlight",
+    "brightness"
+   ],
+   "clues": [
+    "You switch it on.",
+    "The opposite of dark.",
+    "It starts with L."
+   ]
+  },
+  {
+   "id": "r29",
+   "level": 6,
+   "q": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+   "answers": [
+    "echo",
+    "an echo",
+    "eco",
+    "ecko",
+    "ekko"
+   ],
+   "clues": [
+    "Shout in a cave...",
+    "You hear your own voice again.",
+    "It starts with E."
+   ]
+  },
+  {
+   "id": "r30",
+   "level": 7,
+   "q": "There's a one-storey house where everything is yellow: yellow walls, yellow doors, yellow furniture. What colour are the stairs?",
+   "answers": [
+    "there are no stairs",
+    "no stairs",
+    "there aren't any stairs",
+    "it has no stairs",
+    "none",
+    "there are none",
+    "no stairs!"
+   ],
+   "clues": [
+    "Read the first three words again.",
+    "How many floors does the house have?",
+    "One storey means..."
+   ]
+  },
+  {
+   "id": "r31",
+   "level": 1,
+   "q": "What has a thumb and four fingers but isn't alive?",
+   "answers": [
+    "glove",
+    "a glove",
+    "gluv",
+    "gloves",
+    "mitten"
+   ],
+   "clues": [
+    "You wear it in winter.",
+    "It goes on your hand.",
+    "It starts with G."
+   ]
+  },
+  {
+   "id": "r32",
+   "level": 1,
+   "q": "🌙 + 🔦 = what word?",
+   "answers": [
+    "moonlight",
+    "moon light",
+    "moonlite",
+    "moon-light",
+    "moonligt"
+   ],
+   "clues": [
+    "Moon plus...",
+    "What does a torch make?",
+    "It shines at night."
+   ]
+  },
+  {
+   "id": "r33",
+   "level": 1,
+   "q": "What has legs but can't walk?",
+   "answers": [
+    "table",
+    "a table",
+    "chair",
+    "tabel",
+    "tabl"
+   ],
+   "clues": [
+    "You eat dinner off it.",
+    "It's furniture.",
+    "It starts with T."
+   ]
+  },
+  {
+   "id": "r34",
+   "level": 2,
+   "q": "What kind of room has no doors or windows?",
+   "answers": [
+    "mushroom",
+    "a mushroom",
+    "mush room",
+    "mushrom",
+    "mushrum"
+   ],
+   "clues": [
+    "It's something you can eat.",
+    "It grows in damp places.",
+    "Mush..."
+   ]
+  },
+  {
+   "id": "r35",
+   "level": 2,
+   "q": "🐍 + 🍏 = what do you get?",
+   "answers": [
+    "snapple",
+    "snake apple",
+    "snapel",
+    "snappel",
+    "snaple"
+   ],
+   "clues": [
+    "Say them fast together.",
+    "Snake... apple...",
+    "It's a made-up word: snap-ple!"
+   ]
+  },
+  {
+   "id": "r36",
+   "level": 2,
+   "q": "What has a bottom at the top?",
+   "answers": [
+    "legs",
+    "your legs",
+    "leg",
+    "a leg",
+    "bottom legs"
+   ],
+   "clues": [
+    "Think about your body.",
+    "Where does your bottom sit?",
+    "They're what you walk on."
+   ]
+  },
+  {
+   "id": "r37",
+   "level": 3,
+   "q": "What starts with T, ends with T, and has T in it?",
+   "answers": [
+    "teapot",
+    "a teapot",
+    "tea pot",
+    "teapott",
+    "tepot"
+   ],
+   "clues": [
+    "You pour from it.",
+    "It holds a hot drink.",
+    "Tea... pot."
+   ]
+  },
+  {
+   "id": "r38",
+   "level": 3,
+   "q": "🔑 + 🏠 = what is this?",
+   "answers": [
+    "keyhouse",
+    "key house",
+    "house key",
+    "housekey",
+    "front door key"
+   ],
+   "clues": [
+    "What lets you into the second picture?",
+    "Key... house.",
+    "Actually, we'll accept house key too!"
+   ]
+  },
+  {
+   "id": "r39",
+   "level": 3,
+   "q": "If you drop me I'm sure to crack, but give me a smile and I'll smile right back. What am I?",
+   "answers": [
+    "mirror",
+    "a mirror",
+    "mirrer",
+    "miror",
+    "mirrow"
+   ],
+   "clues": [
+    "You look at yourself in it.",
+    "It's made of glass.",
+    "It starts with M."
+   ]
+  },
+  {
+   "id": "r40",
+   "level": 4,
+   "q": "What has hands but can't clap, and a face but can't smile?",
+   "answers": [
+    "clock",
+    "a clock",
+    "watch",
+    "clok",
+    "cloc"
+   ],
+   "clues": [
+    "Tick tock.",
+    "Look at the wall.",
+    "It tells the time."
+   ]
+  },
+  {
+   "id": "r41",
+   "level": 4,
+   "q": "What kind of coat can only be put on when wet?",
+   "answers": [
+    "paint",
+    "a coat of paint",
+    "coat of paint",
+    "paynt",
+    "pant"
+   ],
+   "clues": [
+    "You put it on a wall.",
+    "It comes in tins.",
+    "It starts with P."
+   ]
+  },
+  {
+   "id": "r42",
+   "level": 4,
+   "q": "🧊 + 🍦 = what treat?",
+   "answers": [
+    "ice cream",
+    "icecream",
+    "ice-cream",
+    "ise cream",
+    "icecreem"
+   ],
+   "clues": [
+    "Ice plus...",
+    "It's cold and sweet.",
+    "You eat it in a cone."
+   ]
+  },
+  {
+   "id": "r43",
+   "level": 5,
+   "q": "What can you hold in your right hand but never in your left?",
+   "answers": [
+    "your left hand",
+    "left hand",
+    "my left hand",
+    "the left hand",
+    "left"
+   ],
+   "clues": [
+    "Think about your own body.",
+    "Something on your left side.",
+    "It's a hand."
+   ]
+  },
+  {
+   "id": "r44",
+   "level": 5,
+   "q": "Remove my first letter and I sound the same. Remove my last letter and I still sound the same. Remove my middle letter and I STILL sound the same. I'm a five-letter word. What am I?",
+   "answers": [
+    "empty",
+    "emty",
+    "emptey",
+    "empti",
+    "mt"
+   ],
+   "clues": [
+    "Say the letters M and T out loud.",
+    "Em... tee...",
+    "It means there's nothing inside."
+   ]
+  },
+  {
+   "id": "r45",
+   "level": 5,
+   "q": "🌊 + 🍉 = what word?",
+   "answers": [
+    "watermelon",
+    "water melon",
+    "watermellon",
+    "water-melon",
+    "watermelen"
+   ],
+   "clues": [
+    "Water plus...",
+    "It's a big fruit.",
+    "It's green outside and pink inside."
+   ]
+  },
+  {
+   "id": "r46",
+   "level": 6,
+   "q": "What has a head and a tail but no body?",
+   "answers": [
+    "coin",
+    "a coin",
+    "coyn",
+    "penny",
+    "a penny",
+    "coins"
+   ],
+   "clues": [
+    "It's money.",
+    "You flip it.",
+    "Heads or tails!"
+   ]
+  },
+  {
+   "id": "r47",
+   "level": 6,
+   "q": "What can run but never walks, and has a bed but never sleeps?",
+   "answers": [
+    "river",
+    "a river",
+    "rivver",
+    "stream",
+    "a stream"
+   ],
+   "clues": [
+    "It's full of water.",
+    "Fish live in it.",
+    "It flows to the sea."
+   ]
+  },
+  {
+   "id": "r48",
+   "level": 6,
+   "q": "A man was outside in the rain with no umbrella and no hat. His clothes got soaked, yet not a single hair on his head got wet. How?",
+   "answers": [
+    "he was bald",
+    "he is bald",
+    "bald",
+    "he has no hair",
+    "no hair",
+    "he had no hair"
+   ],
+   "clues": [
+    "Think about his head.",
+    "What is missing?",
+    "He has no hair at all."
+   ]
+  },
+  {
+   "id": "r49",
+   "level": 7,
+   "q": "What begins with an E, ends with an E, but only has one letter in it?",
+   "answers": [
+    "envelope",
+    "an envelope",
+    "envelop",
+    "envalope",
+    "envelope!"
+   ],
+   "clues": [
+    "You post it.",
+    "A letter goes inside.",
+    "It starts with E."
+   ]
+  },
+  {
+   "id": "r50",
+   "level": 7,
+   "q": "🐝 + 🦵 = what body part?",
+   "answers": [
+    "knee",
+    "bee knee",
+    "a knee",
+    "nee",
+    "kne"
+   ],
+   "clues": [
+    "Bee plus leg...",
+    "Say them fast.",
+    "It's in the middle of your leg."
+   ]
+  },
+  {
+   "id": "r51",
+   "level": 7,
+   "q": "What invention lets you look straight through a wall?",
+   "answers": [
+    "window",
+    "a window",
+    "windo",
+    "windew",
+    "windows"
+   ],
+   "clues": [
+    "It's made of glass.",
+    "You open it for fresh air.",
+    "It starts with W."
+   ]
+  },
+  {
+   "id": "r52",
+   "level": 8,
+   "q": "Two fathers and two sons go fishing. They each catch one fish, but only three fish are caught in total. How?",
+   "answers": [
+    "grandfather father and son",
+    "grandad dad and son",
+    "they are grandfather father and son",
+    "grandfather father son",
+    "three people",
+    "there are only three people",
+    "grandpa dad and son"
+   ],
+   "clues": [
+    "How many people are actually there?",
+    "One person can be a father AND a son.",
+    "Grandad, Dad, and the boy."
+   ]
+  },
+  {
+   "id": "r53",
+   "level": 8,
+   "q": "What is so fragile that just saying its name breaks it?",
+   "answers": [
+    "silence",
+    "silense",
+    "quiet",
+    "the silence",
+    "silents"
+   ],
+   "clues": [
+    "Shh...",
+    "It's the opposite of noise.",
+    "It starts with S."
+   ]
+  },
+  {
+   "id": "r54",
+   "level": 8,
+   "q": "I have branches but no fruit, trunk or leaves. What am I?",
+   "answers": [
+    "bank",
+    "a bank",
+    "the bank",
+    "banc",
+    "bankk"
+   ],
+   "clues": [
+    "It's a building.",
+    "You keep money there.",
+    "It starts with B."
+   ]
+  },
+  {
+   "id": "r55",
+   "level": 9,
+   "q": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+   "answers": [
+    "the letter m",
+    "letter m",
+    "m",
+    "an m",
+    "the m"
+   ],
+   "clues": [
+    "Look at the words, not the time.",
+    "Count a certain letter.",
+    "M-inute, m-o-m-ent..."
+   ]
+  },
+  {
+   "id": "r56",
+   "level": 9,
+   "q": "A girl throws a ball as hard as she can. It comes back to her without hitting anything and nobody catching it. How?",
+   "answers": [
+    "she threw it up",
+    "she threw it straight up",
+    "up",
+    "she threw it in the air",
+    "straight up",
+    "threw it upwards",
+    "she threw it upwards"
+   ],
+   "clues": [
+    "Which direction did she throw it?",
+    "Not forwards...",
+    "Gravity brings it back."
+   ]
+  },
+  {
+   "id": "r57",
+   "level": 9,
+   "q": "Which word in the dictionary is always spelled incorrectly?",
+   "answers": [
+    "incorrectly",
+    "incorectly",
+    "the word incorrectly",
+    "incorrectly!",
+    "inkorrectly"
+   ],
+   "clues": [
+    "It's a trick, like the 'wrong' one.",
+    "Read the question again.",
+    "The answer is in the question."
+   ]
+  },
+  {
+   "id": "r58",
+   "level": 10,
+   "q": "I am not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth, but water kills me. What am I?",
+   "answers": [
+    "fire",
+    "a fire",
+    "flame",
+    "fyre",
+    "fier"
+   ],
+   "clues": [
+    "It's hot.",
+    "You'd find it in a fireplace.",
+    "Water puts it out."
+   ]
+  },
+  {
+   "id": "r59",
+   "level": 10,
+   "q": "What has 4 letters, sometimes has 9 letters, but never has 5 letters?",
+   "answers": [
+    "it is a statement",
+    "not a question",
+    "its not a question",
+    "what has 4 letters sometimes has 9 never has 5",
+    "w-h-a-t s-o-m-e-t-i-m-e-s n-e-v-e-r",
+    "the words what sometimes never",
+    "what sometimes never"
+   ],
+   "clues": [
+    "It's not a question!",
+    "Count the letters in WHAT, SOMETIMES and NEVER.",
+    "W-H-A-T has 4, SOMETIMES has 9, NEVER has 5."
+   ]
+  },
+  {
+   "id": "r60",
+   "level": 10,
+   "q": "Turn me on my side and I am everything. Cut me in half and I am nothing. What am I?",
+   "answers": [
+    "8",
+    "eight",
+    "the number 8",
+    "number eight",
+    "number 8"
+   ],
+   "clues": [
+    "It's a number.",
+    "On its side it looks like the infinity sign.",
+    "Cut in half, it looks like two zeros."
+   ]
+  }
+ ],
+ "maths": [
+  {
+   "id": "m1",
+   "level": 1,
+   "q": "What is 5 + 3?",
+   "answers": [
+    "8",
+    "eight"
+   ],
+   "clues": [
+    "Count on from 5.",
+    "5... 6, 7, ...",
+    "It's one less than 9."
+   ]
+  },
+  {
+   "id": "m2",
+   "level": 1,
+   "q": "What is 10 − 4?",
+   "answers": [
+    "6",
+    "six"
+   ],
+   "clues": [
+    "Count back from 10.",
+    "Hold up 10 fingers and put 4 down.",
+    "It's one more than 5."
+   ]
+  },
+  {
+   "id": "m3",
+   "level": 1,
+   "q": "Doughy has 3 spikes on each side of his back. How many spikes in total?",
+   "answers": [
+    "6",
+    "six"
+   ],
+   "clues": [
+    "3 on one side and 3 on the other.",
+    "That's 3 + 3.",
+    "Double 3."
+   ]
+  },
+  {
+   "id": "m4",
+   "level": 2,
+   "q": "What is 7 + 8?",
+   "answers": [
+    "15",
+    "fifteen"
+   ],
+   "clues": [
+    "7 + 7 is 14...",
+    "Then add one more.",
+    "It's halfway between 10 and 20."
+   ]
+  },
+  {
+   "id": "m5",
+   "level": 2,
+   "q": "What is double 9?",
+   "answers": [
+    "18",
+    "eighteen"
+   ],
+   "clues": [
+    "Double means add it to itself.",
+    "9 + 9.",
+    "Two less than 20."
+   ]
+  },
+  {
+   "id": "m6",
+   "level": 2,
+   "q": "Doughy eats 4 cakes every day. How many cakes in 3 days?",
+   "answers": [
+    "12",
+    "twelve"
+   ],
+   "clues": [
+    "4 + 4 + 4.",
+    "Or 4 times 3.",
+    "A dozen."
+   ]
+  },
+  {
+   "id": "m7",
+   "level": 3,
+   "q": "What is 6 × 4?",
+   "answers": [
+    "24",
+    "twenty four",
+    "twenty-four",
+    "twentyfour"
+   ],
+   "clues": [
+    "Count in 4s six times.",
+    "4, 8, 12, 16, 20...",
+    "One more 4 after 20."
+   ]
+  },
+  {
+   "id": "m8",
+   "level": 3,
+   "q": "What is half of 30?",
+   "answers": [
+    "15",
+    "fifteen"
+   ],
+   "clues": [
+    "Half means share between 2.",
+    "Half of 20 is 10, half of 10 is 5.",
+    "Add those two halves."
+   ]
+  },
+  {
+   "id": "m9",
+   "level": 3,
+   "q": "A bus has 12 people on it. 5 get off and 3 get on. How many now?",
+   "answers": [
+    "10",
+    "ten"
+   ],
+   "clues": [
+    "Start with 12 and take away 5.",
+    "That's 7. Now add 3.",
+    "It's a nice round number."
+   ]
+  },
+  {
+   "id": "m10",
+   "level": 4,
+   "q": "What is 8 × 7?",
+   "answers": [
+    "56",
+    "fifty six",
+    "fifty-six",
+    "fiftysix"
+   ],
+   "clues": [
+    "5, 6, 7, 8... 56 = 7 × 8!",
+    "Or 7 × 7 is 49, plus one more 7.",
+    "It's between 50 and 60."
+   ]
+  },
+  {
+   "id": "m11",
+   "level": 4,
+   "q": "What is 100 − 37?",
+   "answers": [
+    "63",
+    "sixty three",
+    "sixty-three",
+    "sixtythree"
+   ],
+   "clues": [
+    "Take away 30 first: 100 − 30 = 70.",
+    "Now take away 7 more.",
+    "It's between 60 and 65."
+   ]
+  },
+  {
+   "id": "m12",
+   "level": 4,
+   "q": "Doughy has 24 stickers and shares them equally between 4 friends. How many does each friend get?",
+   "answers": [
+    "6",
+    "six"
+   ],
+   "clues": [
+    "Sharing equally means dividing.",
+    "24 ÷ 4.",
+    "4 × ? = 24"
+   ]
+  },
+  {
+   "id": "m13",
+   "level": 5,
+   "q": "What is 45 + 38?",
+   "answers": [
+    "83",
+    "eighty three",
+    "eighty-three",
+    "eightythree"
+   ],
+   "clues": [
+    "Add the tens first: 40 + 30 = 70.",
+    "Now the units: 5 + 8 = 13.",
+    "70 + 13 = ?"
+   ]
+  },
+  {
+   "id": "m14",
+   "level": 5,
+   "q": "What is a quarter of 48?",
+   "answers": [
+    "12",
+    "twelve"
+   ],
+   "clues": [
+    "A quarter is half of a half.",
+    "Half of 48 is 24.",
+    "Half of 24 is..."
+   ]
+  },
+  {
+   "id": "m15",
+   "level": 5,
+   "q": "I am thinking of a number. I double it and get 26. What was my number?",
+   "answers": [
+    "13",
+    "thirteen"
+   ],
+   "clues": [
+    "Doubling is the opposite of halving.",
+    "Half of 26.",
+    "It's an unlucky number for some people!"
+   ]
+  },
+  {
+   "id": "m16",
+   "level": 6,
+   "q": "What is 9 × 9?",
+   "answers": [
+    "81",
+    "eighty one",
+    "eighty-one",
+    "eightyone"
+   ],
+   "clues": [
+    "10 × 9 is 90.",
+    "Take one 9 away from 90.",
+    "It's just over 80."
+   ]
+  },
+  {
+   "id": "m17",
+   "level": 6,
+   "q": "A film starts at 4:15 and lasts 1 hour and 30 minutes. What time does it finish?",
+   "answers": [
+    "5:45",
+    "545",
+    "5.45",
+    "quarter to six",
+    "5 45",
+    "17:45"
+   ],
+   "clues": [
+    "Add the hour first: 5:15.",
+    "Now add 30 minutes.",
+    "Quarter to..."
+   ]
+  },
+  {
+   "id": "m18",
+   "level": 6,
+   "q": "What is 144 ÷ 12?",
+   "answers": [
+    "12",
+    "twelve"
+   ],
+   "clues": [
+    "What times 12 gives 144?",
+    "12 × 10 = 120, 12 × 11 = 132...",
+    "One more 12."
+   ]
+  },
+  {
+   "id": "m19",
+   "level": 7,
+   "q": "What is 25% of 80?",
+   "answers": [
+    "20",
+    "twenty"
+   ],
+   "clues": [
+    "25% is the same as a quarter.",
+    "Half of 80 is 40.",
+    "Half of 40 is..."
+   ]
+  },
+  {
+   "id": "m20",
+   "level": 7,
+   "q": "Three friends buy a pizza for £12 and share the cost equally. Each also buys a drink for £2. How much does each person spend?",
+   "answers": [
+    "6",
+    "£6",
+    "6 pounds",
+    "six",
+    "six pounds",
+    "£6.00"
+   ],
+   "clues": [
+    "£12 shared by 3 is £4 each.",
+    "Then add £2 for a drink.",
+    "4 + 2."
+   ]
+  },
+  {
+   "id": "m21",
+   "level": 8,
+   "q": "What is 7 × 8 + 6 × 4?",
+   "answers": [
+    "80",
+    "eighty"
+   ],
+   "clues": [
+    "Do the two times first.",
+    "7 × 8 = 56 and 6 × 4 = 24.",
+    "56 + 24."
+   ]
+  },
+  {
+   "id": "m22",
+   "level": 8,
+   "q": "A rectangle is 7cm long and 4cm wide. What is its area in square cm?",
+   "answers": [
+    "28",
+    "28cm",
+    "28 cm",
+    "twenty eight",
+    "twenty-eight",
+    "28 square cm",
+    "28cm2"
+   ],
+   "clues": [
+    "Area is length times width.",
+    "7 × 4.",
+    "It's a bit less than 30."
+   ]
+  },
+  {
+   "id": "m23",
+   "level": 9,
+   "q": "What is 3.5 + 2.75?",
+   "answers": [
+    "6.25",
+    "6.25!",
+    "six point two five",
+    "6.250"
+   ],
+   "clues": [
+    "Add the whole numbers: 3 + 2 = 5.",
+    "Now 0.5 + 0.75 = 1.25.",
+    "5 + 1.25."
+   ]
+  },
+  {
+   "id": "m24",
+   "level": 9,
+   "q": "If 5 pencils cost 60p, how much do 8 pencils cost?",
+   "answers": [
+    "96",
+    "96p",
+    "96 p",
+    "96 pence",
+    "0.96",
+    "£0.96"
+   ],
+   "clues": [
+    "Find the cost of one pencil first.",
+    "60 ÷ 5 = 12p each.",
+    "12 × 8."
+   ]
+  },
+  {
+   "id": "m25",
+   "level": 10,
+   "q": "What is the next number: 1, 1, 2, 3, 5, 8, 13, ?",
+   "answers": [
+    "21",
+    "twenty one",
+    "twenty-one",
+    "twentyone"
+   ],
+   "clues": [
+    "Look at how each number is made.",
+    "Add the two numbers before it.",
+    "8 + 13."
+   ]
+  },
+  {
+   "id": "m26",
+   "level": 1,
+   "q": "What is 2 + 2?",
+   "answers": [
+    "4",
+    "four"
+   ],
+   "clues": [
+    "Count on your fingers.",
+    "2... 3, 4.",
+    "It's the number of legs on a dog."
+   ]
+  },
+  {
+   "id": "m27",
+   "level": 1,
+   "q": "How many legs do 2 dinosaurs have?",
+   "answers": [
+    "8",
+    "eight"
+   ],
+   "clues": [
+    "Each dinosaur has 4 legs.",
+    "4 + 4.",
+    "Double 4."
+   ]
+  },
+  {
+   "id": "m28",
+   "level": 1,
+   "q": "What is 9 − 5?",
+   "answers": [
+    "4",
+    "four"
+   ],
+   "clues": [
+    "Count back from 9.",
+    "9, 8, 7, 6, 5... that's 5 steps to 4.",
+    "Half of 8."
+   ]
+  },
+  {
+   "id": "m29",
+   "level": 2,
+   "q": "What is 6 + 7?",
+   "answers": [
+    "13",
+    "thirteen"
+   ],
+   "clues": [
+    "6 + 6 is 12.",
+    "Add one more.",
+    "It's a baker's dozen!"
+   ]
+  },
+  {
+   "id": "m30",
+   "level": 2,
+   "q": "What is 20 − 8?",
+   "answers": [
+    "12",
+    "twelve"
+   ],
+   "clues": [
+    "Take away 10 first: 20 − 10 = 10.",
+    "Now you've taken 2 too many, so add 2 back.",
+    "It's a dozen."
+   ]
+  },
+  {
+   "id": "m31",
+   "level": 2,
+   "q": "Doughy has 5 pink cupcakes and eats 2. Then he bakes 4 more. How many now?",
+   "answers": [
+    "7",
+    "seven"
+   ],
+   "clues": [
+    "5 − 2 = 3.",
+    "Now add 4.",
+    "3 + 4."
+   ]
+  },
+  {
+   "id": "m32",
+   "level": 3,
+   "q": "What is 5 × 5?",
+   "answers": [
+    "25",
+    "twenty five",
+    "twenty-five",
+    "twentyfive"
+   ],
+   "clues": [
+    "Count in 5s five times.",
+    "5, 10, 15, 20...",
+    "One more 5."
+   ]
+  },
+  {
+   "id": "m33",
+   "level": 3,
+   "q": "What is 15 + 15?",
+   "answers": [
+    "30",
+    "thirty"
+   ],
+   "clues": [
+    "Double 15.",
+    "10 + 10 = 20 and 5 + 5 = 10.",
+    "20 + 10."
+   ]
+  },
+  {
+   "id": "m34",
+   "level": 3,
+   "q": "What is 3 × 7?",
+   "answers": [
+    "21",
+    "twenty one",
+    "twenty-one",
+    "twentyone"
+   ],
+   "clues": [
+    "Count in 3s seven times.",
+    "3, 6, 9, 12, 15, 18...",
+    "One more 3."
+   ]
+  },
+  {
+   "id": "m35",
+   "level": 4,
+   "q": "What is 36 ÷ 6?",
+   "answers": [
+    "6",
+    "six"
+   ],
+   "clues": [
+    "What times 6 makes 36?",
+    "6 × 5 = 30...",
+    "One more 6."
+   ]
+  },
+  {
+   "id": "m36",
+   "level": 4,
+   "q": "What is 9 × 6?",
+   "answers": [
+    "54",
+    "fifty four",
+    "fifty-four",
+    "fiftyfour"
+   ],
+   "clues": [
+    "10 × 6 = 60.",
+    "Take away one 6.",
+    "Between 50 and 55."
+   ]
+  },
+  {
+   "id": "m37",
+   "level": 4,
+   "q": "A snake is 80 cm long. A worm is 25 cm long. How much longer is the snake?",
+   "answers": [
+    "55",
+    "55cm",
+    "55 cm",
+    "fifty five",
+    "fifty-five"
+   ],
+   "clues": [
+    "Take the small one from the big one.",
+    "80 − 25.",
+    "80 − 20 = 60, then take 5 more."
+   ]
+  },
+  {
+   "id": "m38",
+   "level": 5,
+   "q": "What is 7 × 9?",
+   "answers": [
+    "63",
+    "sixty three",
+    "sixty-three",
+    "sixtythree"
+   ],
+   "clues": [
+    "7 × 10 = 70.",
+    "Take away one 7.",
+    "Between 60 and 65."
+   ]
+  },
+  {
+   "id": "m39",
+   "level": 5,
+   "q": "What is 250 + 375?",
+   "answers": [
+    "625",
+    "six hundred and twenty five",
+    "six hundred twenty five"
+   ],
+   "clues": [
+    "200 + 300 = 500.",
+    "50 + 75 = 125.",
+    "500 + 125."
+   ]
+  },
+  {
+   "id": "m40",
+   "level": 5,
+   "q": "What is a third of 27?",
+   "answers": [
+    "9",
+    "nine"
+   ],
+   "clues": [
+    "A third means share between 3.",
+    "3 × ? = 27",
+    "It's 3 × 3."
+   ]
+  },
+  {
+   "id": "m41",
+   "level": 6,
+   "q": "What is 12 × 12?",
+   "answers": [
+    "144",
+    "one hundred and forty four",
+    "one hundred forty four"
+   ],
+   "clues": [
+    "12 × 10 = 120.",
+    "12 × 2 = 24.",
+    "120 + 24."
+   ]
+  },
+  {
+   "id": "m42",
+   "level": 6,
+   "q": "What is 1000 − 456?",
+   "answers": [
+    "544",
+    "five hundred and forty four"
+   ],
+   "clues": [
+    "1000 − 400 = 600.",
+    "600 − 56 = ?",
+    "Take away 50 then 6."
+   ]
+  },
+  {
+   "id": "m43",
+   "level": 6,
+   "q": "It is 10:40. What time will it be in 35 minutes?",
+   "answers": [
+    "11:15",
+    "1115",
+    "11.15",
+    "quarter past eleven",
+    "11 15",
+    "quarter past 11"
+   ],
+   "clues": [
+    "10:40 + 20 minutes = 11:00.",
+    "You've used 20 of the 35 minutes, 15 left.",
+    "11:00 + 15."
+   ]
+  },
+  {
+   "id": "m44",
+   "level": 7,
+   "q": "What is 15% of 200?",
+   "answers": [
+    "30",
+    "thirty"
+   ],
+   "clues": [
+    "10% of 200 is 20.",
+    "5% is half of that: 10.",
+    "20 + 10."
+   ]
+  },
+  {
+   "id": "m45",
+   "level": 7,
+   "q": "A square has sides of 9 cm. What is its perimeter (all the way round)?",
+   "answers": [
+    "36",
+    "36cm",
+    "36 cm",
+    "thirty six",
+    "thirty-six"
+   ],
+   "clues": [
+    "A square has 4 equal sides.",
+    "9 × 4.",
+    "9 + 9 + 9 + 9."
+   ]
+  },
+  {
+   "id": "m46",
+   "level": 7,
+   "q": "What is 6 × 8 − 4 × 5?",
+   "answers": [
+    "28",
+    "twenty eight",
+    "twenty-eight"
+   ],
+   "clues": [
+    "Do the multiplying first.",
+    "6 × 8 = 48 and 4 × 5 = 20.",
+    "48 − 20."
+   ]
+  },
+  {
+   "id": "m47",
+   "level": 8,
+   "q": "What is 0.5 × 18?",
+   "answers": [
+    "9",
+    "nine",
+    "9.0"
+   ],
+   "clues": [
+    "0.5 is the same as a half.",
+    "Half of 18.",
+    "18 ÷ 2."
+   ]
+  },
+  {
+   "id": "m48",
+   "level": 8,
+   "q": "What is 3/4 of 32?",
+   "answers": [
+    "24",
+    "twenty four",
+    "twenty-four"
+   ],
+   "clues": [
+    "Find a quarter first: 32 ÷ 4 = 8.",
+    "Now you need three of those.",
+    "8 × 3."
+   ]
+  },
+  {
+   "id": "m49",
+   "level": 8,
+   "q": "A train leaves at 09:50 and arrives at 12:20. How long is the journey in minutes?",
+   "answers": [
+    "150",
+    "150 minutes",
+    "150 mins",
+    "2 hours 30 minutes",
+    "2h30",
+    "2 and a half hours"
+   ],
+   "clues": [
+    "09:50 to 12:00 is 2 hours 10 minutes.",
+    "Then 20 more minutes.",
+    "2 hours 30 minutes = 150 minutes."
+   ]
+  },
+  {
+   "id": "m50",
+   "level": 9,
+   "q": "What is 17 × 6?",
+   "answers": [
+    "102",
+    "one hundred and two",
+    "one hundred two"
+   ],
+   "clues": [
+    "10 × 6 = 60 and 7 × 6 = 42.",
+    "60 + 42.",
+    "Just over 100."
+   ]
+  },
+  {
+   "id": "m51",
+   "level": 9,
+   "q": "What is the next number: 2, 6, 18, 54, ?",
+   "answers": [
+    "162",
+    "one hundred and sixty two"
+   ],
+   "clues": [
+    "What do you do to get from one number to the next?",
+    "Each number is 3 times the one before.",
+    "54 × 3."
+   ]
+  },
+  {
+   "id": "m52",
+   "level": 9,
+   "q": "What is 8.4 − 3.9?",
+   "answers": [
+    "4.5",
+    "four point five",
+    "4.50"
+   ],
+   "clues": [
+    "8.4 − 4 = 4.4.",
+    "But you took 0.1 too much.",
+    "Add 0.1 back."
+   ]
+  },
+  {
+   "id": "m53",
+   "level": 10,
+   "q": "Doughy runs 400 m in 80 seconds. At the same speed, how far does he run in 2 minutes?",
+   "answers": [
+    "600",
+    "600m",
+    "600 m",
+    "six hundred",
+    "600 metres",
+    "600 meters"
+   ],
+   "clues": [
+    "2 minutes = 120 seconds.",
+    "In 80 seconds he runs 400 m, so in 40 seconds he runs 200 m.",
+    "400 + 200."
+   ]
+  },
+  {
+   "id": "m54",
+   "level": 10,
+   "q": "What is 2 to the power of 6 (2 × 2 × 2 × 2 × 2 × 2)?",
+   "answers": [
+    "64",
+    "sixty four",
+    "sixty-four"
+   ],
+   "clues": [
+    "2 × 2 = 4, × 2 = 8, × 2 = 16...",
+    "× 2 = 32...",
+    "× 2 once more."
+   ]
+  },
+  {
+   "id": "m55",
+   "level": 10,
+   "q": "A box holds 24 chocolates. 3/8 of them are dark. How many are dark?",
+   "answers": [
+    "9",
+    "nine"
+   ],
+   "clues": [
+    "Find 1/8 first: 24 ÷ 8 = 3.",
+    "You need three eighths.",
+    "3 × 3."
+   ]
+  }
+ ],
+ "jokes": [
+  {
+   "id": "j1",
+   "setup": "Why did the dinosaur cross the road?",
+   "punch": "Because the chicken hadn't been invented yet!"
+  },
+  {
+   "id": "j2",
+   "setup": "What do you call a dinosaur that's sleeping?",
+   "punch": "A dino-SNORE!"
+  },
+  {
+   "id": "j3",
+   "setup": "Why can't you hear a pterodactyl go to the toilet?",
+   "punch": "Because the P is silent!"
+  },
+  {
+   "id": "j4",
+   "setup": "What do you call a pink dinosaur with green spikes?",
+   "punch": "Doughy, obviously. Were you not paying attention?"
+  },
+  {
+   "id": "j5",
+   "setup": "Why did the maths book look so sad?",
+   "punch": "Because it had too many problems!"
+  },
+  {
+   "id": "j6",
+   "setup": "What do you call cheese that isn't yours?",
+   "punch": "NACHO cheese!"
+  },
+  {
+   "id": "j7",
+   "setup": "Why did the banana go to the doctor?",
+   "punch": "Because it wasn't peeling well!"
+  },
+  {
+   "id": "j8",
+   "setup": "What's a dinosaur's favourite food?",
+   "punch": "Anything... they eat whatever they want. They're dinosaurs."
+  },
+  {
+   "id": "j9",
+   "setup": "Why was 6 afraid of 7?",
+   "punch": "Because 7 8 9!"
+  },
+  {
+   "id": "j10",
+   "setup": "What do you call a fish with no eyes?",
+   "punch": "A fsh!"
+  },
+  {
+   "id": "j11",
+   "setup": "How do you make a tissue dance?",
+   "punch": "You put a little boogie in it!"
+  },
+  {
+   "id": "j12",
+   "setup": "What did one wall say to the other wall?",
+   "punch": "Meet you at the corner!"
+  },
+  {
+   "id": "j13",
+   "setup": "Why did the cookie go to the hospital?",
+   "punch": "Because it felt crummy!"
+  },
+  {
+   "id": "j14",
+   "setup": "What do you call a bear with no teeth?",
+   "punch": "A gummy bear!"
+  },
+  {
+   "id": "j15",
+   "setup": "Why don't eggs tell jokes?",
+   "punch": "They'd crack each other up!"
+  },
+  {
+   "id": "j16",
+   "setup": "What's orange and sounds like a parrot?",
+   "punch": "A carrot!"
+  },
+  {
+   "id": "j17",
+   "setup": "What do you call a dinosaur that crashes its car?",
+   "punch": "Tyrannosaurus WRECKS!"
+  },
+  {
+   "id": "j18",
+   "setup": "Why did the student eat his homework?",
+   "punch": "Because the teacher said it was a piece of cake!"
+  },
+  {
+   "id": "j19",
+   "setup": "What has ears but can't hear?",
+   "punch": "A cornfield!"
+  },
+  {
+   "id": "j20",
+   "setup": "What did Doughy say when he sat on a cactus?",
+   "punch": "SPLAT! ...then OUCH!"
+  },
+  {
+   "id": "j21",
+   "setup": "Why do bees have sticky hair?",
+   "punch": "Because they use honeycombs!"
+  },
+  {
+   "id": "j22",
+   "setup": "What do you call a sleeping bull?",
+   "punch": "A bulldozer!"
+  },
+  {
+   "id": "j23",
+   "setup": "Why did the golfer wear two pairs of trousers?",
+   "punch": "In case he got a hole in one!"
+  },
+  {
+   "id": "j24",
+   "setup": "What kind of tree fits in your hand?",
+   "punch": "A palm tree!"
+  },
+  {
+   "id": "j25",
+   "setup": "What do you get when you cross a snowman and a dog?",
+   "punch": "Frostbite!"
+  }
+ ]
+}

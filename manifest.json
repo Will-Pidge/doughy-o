@@ -1,0 +1,9 @@
+{
+  "name": "Doughy-O",
+  "short_name": "Doughy-O",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#ff3d9a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Doughy-O</title>
+  <meta name="theme-color" content="#ff3d9a">
+  <!-- These three lines make it feel like a real app when added to the iPhone home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Doughy-O">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icon.svg">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- HOME SCREEN -->
+  <section class="screen" id="screen-home">
+    <div class="logo-wrap">
+      <h1 class="logo">DOUGHY-O</h1>
+      <div class="burst burst-yellow">DAILY<br>BRAIN<br>SPLAT!</div>
+    </div>
+    <div class="doughy-wrap">
+      <div class="bubble" id="home-bubble">Ready for today's riddle?</div>
+      <div class="doughy" id="doughy"></div>
+    </div>
+    <div class="stats">
+      <div class="stat"><span class="stat-num" id="stat-streak">0</span><span class="stat-label">day streak</span></div>
+      <div class="stat"><span class="stat-num" id="stat-level">Egg</span><span class="stat-label">level</span></div>
+      <div class="stat"><span class="stat-num" id="stat-best">0</span><span class="stat-label">best streak</span></div>
+    </div>
+    <button class="big-btn" id="btn-play">PLAY TODAY'S PUZZLE</button>
+    <div class="row">
+      <button class="big-btn alt" data-practice="riddles">MORE RIDDLES</button>
+      <button class="big-btn alt" data-practice="maths">MORE MATHS</button>
+    </div>
+    <p class="small" id="home-note"></p>
+  </section>
+
+  <!-- PUZZLE SCREEN (used for both riddle and maths) -->
+  <section class="screen hidden" id="screen-puzzle">
+    <div class="topbar">
+      <span class="tag" id="puzzle-tag">RIDDLE</span>
+      <span class="tag tag-dark" id="puzzle-points">3 pts</span>
+    </div>
+    <div class="doughy-wrap small-doughy">
+      <div class="bubble bubble-q" id="puzzle-q">...</div>
+      <div class="doughy" id="doughy2"></div>
+    </div>
+    <ul class="clues" id="clues"></ul>
+    <form id="answer-form" autocomplete="off">
+      <input type="text" id="answer-input" placeholder="Type your answer..." autocapitalize="off" autocorrect="off" spellcheck="false">
+      <button type="submit" class="big-btn">ANSWER!</button>
+    </form>
+    <button class="ghost-btn" id="btn-clue">🔍 Give me a clue (costs a point)</button>
+    <div class="feedback hidden" id="feedback"></div>
+    <div class="row hidden" id="practice-nav">
+      <button class="big-btn" id="btn-next">NEXT ONE!</button>
+      <button class="ghost-btn" id="btn-stop">I'm done</button>
+    </div>
+  </section>
+
+  <!-- JOKE SCREEN -->
+  <section class="screen hidden" id="screen-joke">
+    <div class="topbar"><span class="tag">JOKE TIME</span></div>
+    <div class="doughy-wrap">
+      <div class="bubble bubble-q" id="joke-setup">...</div>
+      <div class="doughy" id="doughy3"></div>
+    </div>
+    <button class="big-btn" id="btn-punch">🥁 TELL ME!</button>
+    <div class="burst burst-green hidden" id="joke-punch"></div>
+    <button class="big-btn hidden" id="btn-finish">SEE MY SCORE</button>
+  </section>
+
+  <!-- SUMMARY SCREEN -->
+  <section class="screen hidden" id="screen-summary">
+    <h2 class="logo small-logo" id="summary-title">CRASH!</h2>
+    <div class="scorecard">
+      <div class="scorecard-row"><span>Riddle</span><b id="sum-riddle">0</b></div>
+      <div class="scorecard-row"><span>Maths</span><b id="sum-maths">0</b></div>
+      <div class="scorecard-row total"><span>Today</span><b id="sum-total">0</b></div>
+    </div>
+    <div class="stats">
+      <div class="stat"><span class="stat-num" id="sum-streak">0</span><span class="stat-label">day streak</span></div>
+      <div class="stat"><span class="stat-num" id="sum-level">Egg</span><span class="stat-label">level</span></div>
+      <div class="stat"><span class="stat-num" id="sum-alltime">0</span><span class="stat-label">all-time pts</span></div>
+    </div>
+    <p class="small" id="sum-note">Come back tomorrow for a new one!</p>
+    <div class="row">
+      <button class="big-btn alt" data-practice="riddles">MORE RIDDLES</button>
+      <button class="big-btn alt" data-practice="maths">MORE MATHS</button>
+    </div>
+    <button class="ghost-btn" id="btn-home">Back to start</button>
+  </section>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
