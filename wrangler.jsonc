@@ -1,0 +1,9 @@
+{
+  // Tells Cloudflare how to deploy Doughy-O.
+  // There's no build step — it just serves the files in this folder.
+  "name": "doughy-o",
+  "compatibility_date": "2026-09-21",
+  "assets": {
+    "directory": "./"
+  }
+}
