@@ -1,5 +1,19 @@
 # Doughy-O — memory
 
+## 2026-09-21 (later) — LIVE at doughy.willpidge.com
+- Deployed via Cloudflare. Note: Cloudflare's current flow creates a **Worker** (static assets),
+  not a Pages project — URL is `doughy-o.will-2c2.workers.dev`. Pages is being folded into Workers.
+- Custom domain added under: Workers & Pages → doughy-o → **Domains** tab → + Add Domain.
+  Cloudflare created the DNS record itself and issued the cert (both zone + worker on Cloudflare).
+- The `*.willpidge.com` wildcard does NOT interfere — the specific `doughy` record wins.
+- **Gotcha for next time:** local DNS cached the old wildcard answer for ages, so the site looked
+  dead from this Mac while working fine everywhere else. Check with
+  `dig @kallie.ns.cloudflare.com <host>` or `dig @1.1.1.1 <host>` before assuming it's broken.
+- Verified live: all files 200, valid cert, service worker **active**, manifest + 4 icons, no console errors.
+- **Open loose end:** project lists as "Manually deployed" — pushing to GitHub may not auto-update
+  the live site. Sort before adding puzzles, or changes won't appear.
+- Next: Fire tablet — Silk → Add to Home Screen. Then auto-deploy, then DMARC on the domain.
+
 ## 2026-09-21 — Split into its own repo, prepped for hosting
 - Doughy-O now lives in its own **public** repo: `Will-Pidge/doughy-o`. Files stayed at
   `~/projects/other/doughy-o`; the `other-projects` repo untracks it via `.gitignore`.
