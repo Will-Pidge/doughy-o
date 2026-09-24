@@ -1,5 +1,21 @@
 # Doughy-O — memory
 
+## 2026-09-24 — Look refresh: font + background options produced, awaiting a pick
+- Will and Lara want two visual changes: (1) a different font for the DOUGHY-O name at the top,
+  (2) replace the black + pink-dot background with a faint old-school comic wallpaper in brand
+  colours (Doughy as the main character, a few POW/BANG/SPLAT bursts, no story, no speech bubbles)
+  under a light grey semi-transparent wash so it's barely visible.
+- Options page published as a Claude artifact: https://claude.ai/artifact/PBFmuc1EeWDKg72NYiHtRh
+  Nine fonts (F1 Bangers = current, F2 Luckiest Guy, F3 Bowlby One, F4 Titan One, F5 Chewy,
+  F6 Sigmar One, F7 Bungee Shade, F8 Modak, F9 Bagel Fat One) and five backgrounds (B0 current,
+  B1 grey wash, B2 paper wash, B3 pink wash, B4 night wash) with a wash-strength slider.
+  Source of the page: scratchpad only; the wallpaper is an inline SVG tile built in JS, so it can
+  be lifted straight into the app once chosen.
+- Nothing in the app changed yet. Next: Will sends back a code like "F3 + B1, wash 86%", then
+  update index.html (font link), style.css (.logo + body background) and bump the sw.js cache.
+- No Notion task exists for Doughy-O yet (searched personal Tasks + Projects, 24 Sep). Proposed:
+  project "Doughy-O", task "Look refresh: title font + comic wallpaper", personal tier.
+
 ## 2026-09-21 (later still) — Auto-deploy confirmed; two follow-ups on the Notion board
 - **Pushing to `main` updates the live site.** Verified end to end: pushed a commit, Cloudflare
   built it automatically, the new file appeared at doughy.willpidge.com.
