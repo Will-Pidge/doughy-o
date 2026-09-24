@@ -19,6 +19,10 @@
 - Spotted, not fixed: after a wrong riddle answer the "Not quite! Try again..." placeholder carries
   over into the maths input box. Small pre-existing bug.
 - Notion: still no task for Doughy-O (proposed personal project "Doughy-O", awaiting Will's yes).
+- **Deploy hiccup:** the look-refresh push never built on Cloudflare (first push of the day did).
+  No build status shows on GitHub commits, so you can't tell from there. An empty
+  "Retrigger Cloudflare deploy" commit fixed it within ~3 minutes. Quick live check:
+  `curl -s https://doughy.willpidge.com/memory.md | grep -m1 "^## "` shows which commit is live.
 
 ## 2026-09-24 — Look refresh: font + background options produced, awaiting a pick
 - Will and Lara want two visual changes: (1) a different font for the DOUGHY-O name at the top,
