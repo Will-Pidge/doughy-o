@@ -1,5 +1,25 @@
 # Doughy-O — memory
 
+## 2026-09-24 (later) — Look refresh applied: Bungee fonts + night-wash comic wallpaper
+- Will and Lara picked **F7 Bungee Shade + B4 Night wash at 71%** from the options page, then
+  asked for the whole app to follow the same style.
+- Done: title + summary title in **Bungee Shade** (has its own 3D shadow, so the old text-stroke
+  and text-shadow were removed); buttons, tags, bursts, stat numbers, feedback and scorecard
+  numbers in plain **Bungee** (same letterforms, no shadow, readable small). Riddle/answer/body
+  text stays Comic Neue. Bangers is gone entirely.
+- Bungee is wide, so sizes came down: big buttons 17px, yellow half-width buttons 13px, tags 15px,
+  feedback 24px, stat numbers 24px, level name 14px and allowed to wrap (Brain Splatter etc.).
+- Background: comic wallpaper is an **inline SVG at the top of index.html** (Doughy x2, POW/BANG/
+  SPLAT/ZAP bursts, dot patches, sparks, lightning) fixed behind the app at **opacity .29** over
+  body `#151419`. Inline rather than a background-image file so the burst words can use the Bungee
+  webfont. To make it fainter/stronger, change `.wallpaper { opacity }` in style.css.
+- Cache: service worker bumped to v3 and stylesheet linked as `style.css?v=3`. Lesson: the browser
+  HTTP cache kept serving old CSS locally even after the SW was cleared; version the link on
+  every CSS change.
+- Spotted, not fixed: after a wrong riddle answer the "Not quite! Try again..." placeholder carries
+  over into the maths input box. Small pre-existing bug.
+- Notion: still no task for Doughy-O (proposed personal project "Doughy-O", awaiting Will's yes).
+
 ## 2026-09-24 — Look refresh: font + background options produced, awaiting a pick
 - Will and Lara want two visual changes: (1) a different font for the DOUGHY-O name at the top,
   (2) replace the black + pink-dot background with a faint old-school comic wallpaper in brand
